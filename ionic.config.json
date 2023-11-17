@@ -1,0 +1,7 @@
+{
+  "name": "pdf-filesystem-react",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
